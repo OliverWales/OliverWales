@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Oli, computer scientist and software engineer.
+I'm Oli, I build software.
 
 🎓 BA (Hons) Computer Science at the University of Cambridge (2018-2021)\
 💼 Full-Stack Engineer at [Opvia](https://www.opvia.io/) (2021 - present)\
